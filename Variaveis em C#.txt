@@ -1,0 +1,8 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: VariaveisEmC, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>C:\Users\user\source\repos\VariaveisEmC\Program.cs(13,22,13,32): warning CS0219: A variável "frequencia" é atribuída, mas seu valor nunca é usado
+1>VariaveisEmC -> C:\Users\user\source\repos\VariaveisEmC\bin\Debug\net6.0\VariaveisEmC.dll
+1>Projeto de compilação pronto "VariaveisEmC.csproj".
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 7:07 PM e levou 00,871 segundos ==========
